@@ -1,0 +1,12 @@
+{
+  "pins": [1,0],
+  "ledpins":21,
+  "customername":"dev",
+  "ftmodbus": "y",
+  "ftjson": "n",
+  "ftzed": "r",
+  "interval": 10,
+  "ftmqttcontrol": "n",
+  "ftbtcontrol": "n",
+  "tem-hum-read" : "n"
+}
