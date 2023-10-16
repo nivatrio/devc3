@@ -1,6 +1,4 @@
 {
-  "pins": [3,2],
-  "ledpins":21,
   "customername":"devc3",
   "ftmodbus": "y",
   "ftjson": "n",
