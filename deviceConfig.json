@@ -2,5 +2,6 @@
       "name": "devc3",
       "deviceId": 1,
       "deviceType": "solar"
+         "debug": "y",
 }
 
