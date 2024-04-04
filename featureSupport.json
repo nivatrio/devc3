@@ -1,6 +1,6 @@
 {
   "customername":"devc3",
-  "ftmodbus": "y",
+  "ftmodbus": "n",
   "ftjson": "n",
   "ftzed": "y",
   "interval": 10,
