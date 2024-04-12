@@ -7,6 +7,5 @@
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n",
   "tem-hum-read" : "n",
-  "debug":"y",
-  "sdlogging":"n"
+  "sdlogging":"y"
 }
