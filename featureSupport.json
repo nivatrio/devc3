@@ -2,7 +2,7 @@
   "customername":"devc3",
   "ftmodbus": "n",
   "ftjson": "n",
-  "ftzed": "y",
+  "ftzed": "n",
   "interval": 10,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n",
