@@ -3,7 +3,7 @@
   "ftmodbus": "n",
   "ftjson": "n",
   "ftzed": "n",
-  "interval": 10,
+  "interval": 18,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n",
   "tem-hum-read" : "n",
