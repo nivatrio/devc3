@@ -1,11 +1,11 @@
 {
   "customername":"devc3",
-  "ftmodbus": "y",
+  "ftmodbus": "n",
   "ftjson": "n",
-  "ftzed": "y",
+  "ftzed": "n",
   "interval": 10,
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n",
   "tem-hum-read" : "n",
-  "sdlogging":"y"
+  "sdlogging":"n"
 }
