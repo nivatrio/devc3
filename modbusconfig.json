@@ -1,7 +1,7 @@
 {
   "inverters": [
     {
-      "name": "dev3-inv1",
+      "name": "dev3-inv1c3",
       "slaveId": 1,
       "slaveType":"RTU",
       "functionCode": 4,
