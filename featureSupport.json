@@ -8,5 +8,5 @@
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n",
   "tem-hum-read" : "n",
-  "sdlogging":"n"
+  "sdlogging":"y"
 }
