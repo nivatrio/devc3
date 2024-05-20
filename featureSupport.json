@@ -8,5 +8,8 @@
   "ftmqttcontrol": "n",
   "ftbtcontrol": "n",
   "tem-hum-read" : "n",
-  "sdlogging":"y"
+  "sdlogging":"y",
+  "cloudeMqtt": "y",
+  "localMqttServer": "192.168.1.10",
+  "cloudeMqttServer": "triosolar.co.in"
 }
