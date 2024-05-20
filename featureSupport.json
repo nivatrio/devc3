@@ -1,7 +1,7 @@
 {
-  "version":0.4,
+  "version":0.5,
   "customername":"devc3",
-  "ftmodbus": "n",
+  "ftmodbus": "y",
   "ftjson": "n",
   "ftzed": "n",
   "interval": 10,
